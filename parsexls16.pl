@@ -3,16 +3,6 @@
 use strict;
 use warnings;
 
-#Including libraries from /prog/lib/perl_lib
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.2/x86_64-linux-thread-multi';
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.2';
-use lib '/prog/lib/perl_lib/lib/perl5/x86_64-linux-thread-multi';
-use lib '/prog/lib/perl_lib/lib/perl5';
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.0/x86_64-linux-thread-multi';
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.0';
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.1/x86_64-linux-thread-multi';
-use lib '/prog/lib/perl_lib/lib/perl5/5.18.1 /usr/lib/perl5/site_perl';
-
 use Getopt::Long;
 use File::Type;
 use File::Basename;
